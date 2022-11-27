@@ -9,3 +9,4 @@ Repositori ini berisi tentang projek yang dikerjakan oleh kelompok 6 (Sistem KRS
 5. Dhivanissa Putri Mela [2008107010009]
 
 #Youtube Demo GUI (Sistem KRS)
+https://youtu.be/RABFPTw3H_Q
